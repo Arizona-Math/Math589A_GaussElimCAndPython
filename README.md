@@ -23,3 +23,8 @@ file `Makefile` contains all recipes to build the dynamic library
 (shared object file) `libgauss.so` which is callable from
 Python. Also, a basic driver `main.c` is included, to allow testing C
 code from C itself (without Python).
+
+Maxima
+------
+
+Maxima CAS was used to validate some test examples. The code is in folder `Maxima`.
